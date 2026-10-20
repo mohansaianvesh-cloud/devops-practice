@@ -24,4 +24,4 @@ pipeline {
         }
     }
 }
-// Testing GitHub automatic build trigger
+// Testing GitHub automatic build trigger - test 2
